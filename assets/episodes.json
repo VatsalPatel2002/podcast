@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Episode 1",
+    "date": "Wed, 11 Jan 2023 13:00",
+    "description": "In this conversation, meta-david interviews Sandy Carter from Unstoppable Domains...",
+    "duration": "13:00",
+    "isPlaying": false,
+    "isActive": true
+  },
+  {
+    "title": "Episode 2",
+    "date": "Wed, 11 Jan 2023 13:00",
+    "description": "meta-david talks with the legendary Gabe Weis, a mixed-media artist living in the Bay Area...",
+    "duration": "13:00",
+    "isPlaying": true,
+    "isActive": false
+  },
+  {
+    "title": "Episode 3",
+    "date": "Wed, 11 Jan 2023 13:00",
+    "description": "Hello, gm gm! This is a trailer episode where we are transitioning from The Dead NFT Artist Society...",
+    "duration": "13:00",
+    "isPlaying": false,
+    "isActive": false
+  }
+]
